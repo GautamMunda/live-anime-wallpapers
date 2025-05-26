@@ -1,4 +1,4 @@
-# Nature Wallpapers
+# Live Wallpapers
 
 A curated list of green nature wallpapers suitable for desktop and mobile screens.
 
